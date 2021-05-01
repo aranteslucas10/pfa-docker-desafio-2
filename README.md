@@ -16,3 +16,5 @@ Clone o repositório, abra um terminal dentro dele e execute:
 ```text
 docker-compose up
 ```
+
+Acesse http://localhost:8000 
